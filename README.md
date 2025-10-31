@@ -22,7 +22,8 @@
 * Anda harus memiliki:Node.js (Disarankan versi LTS)
 * npm atau Yarn (Aplikasi ini menggunakan npm untuk lockfile)
 
-📂 Susunan Proyekrynnsza/buku_catatan/
+📂 Susunan Proyek rynnsza/
+* buku_catatan/
 * ├── dist/                 
 * ├── public/               
 * ├── src/
@@ -53,3 +54,4 @@ Membangun Proyek untuk Produksi (Production):Hasil build akan disimpan di folder
 * Bashnpm run build
  atau
 * yarn build
+
