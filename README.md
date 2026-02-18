@@ -12,8 +12,8 @@
 * Format Tanggal Lokal: Tanggal pembuatan dicetak dalam format bahasa Indonesia (id-ID).
 
 💻 Teknologi yang Digunakan
-* TeknologiVersiPeranReact^18.0.0
-* Pustaka JavaScript untuk membangun antarmuka pengguna.Vite^4.3.9
+* TeknologiVersiPeranReact 18.0.0
+* Pustaka JavaScript untuk membangun antarmuka pengguna.Vite 4.3.9
 * Alat bundling dan dev server yang cepat.
 * Local Storage APIN/AMekanisme penyimpanan data persisten di sisi klien.
 * HTML, CSS, JavaScript (JSX)N/ABahasa dasar pengembangan web.
@@ -54,4 +54,5 @@ Membangun Proyek untuk Produksi (Production):Hasil build akan disimpan di folder
 * Bashnpm run build
  atau
 * yarn build
+
 
